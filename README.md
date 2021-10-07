@@ -1,16 +1,32 @@
-### Hi there 👋
+## <div align=”center”> Ola, bem vinde! 🏳️‍🌈</div>        
+  
+ 
+ 
+##### Meu nome é Beatriz Rodrigues. 
 
-<!--
-**beatriz-rodrig/beatriz-rodrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### :computer: Desenvolvedora Full-Stack Jr em formação.
 
-Here are some ideas to get you started:
+##### :house_with_garden: Barueri/SP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### :books: Java | Scrum | MySQL | Spring Boot | Spring Security
+
+##### :outbox_tray: Metas de 2021 :Arrumar um emprego.
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-rodrigues-1145b121a/)](https://www.linkedin.com/in/beatriz-rodrigues-1145b121a/)
+
+![beatriz-rodrig GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-rodrig&show_icons=true&theme=dark)
+
+
+
+
+
+
+
+
+
+
+
+
+
