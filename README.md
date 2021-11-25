@@ -14,7 +14,7 @@
 
 
 <div style="display: inline_block">
-    <h3 align="left"><img src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="50"> Das linguagens e ferramentas que tenho um prévio conhecimento:</h3>
+    <h3 align="left"> Das linguagens e ferramentas que tenho um prévio conhecimento:</h3>
    <br>
    
   <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
