@@ -4,11 +4,9 @@
  
 ##### Meu nome é Beatriz Rodrigues. 
 
-##### :computer: Desenvolvedora Full-Stack Jr em formação.
+##### :computer: Desenvolvedora Full-Stack Jr.
 
 ##### :house_with_garden: Barueri/SP.
-
-##### :books: Java | Scrum | MySQL | Spring Boot | Spring Security
 
 ##### :outbox_tray: Metas de 2021 :Arrumar um emprego.
 
@@ -31,8 +29,14 @@
    <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-rodrigues-1145b121a/)](https://www.linkedin.com/in/beatriz-rodrigues-1145b121a/)
-
-![beatriz-rodrig GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriz-rodrig&show_icons=true&theme=dark)
+  
+<p align="center">
+   <a href="https://github.com/beatriz-rodrig">
+    <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-rodrig&layout=compact&langs_count=7&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000"/> 
+     <img height="166em" src="https://github-readme-stats.vercel.app/api?username=beatriz-rodrig&show_icons=true&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000&include_all_commits=true&count_private=true"/>
+   <br>
+      </p>
+    <hr size="3">
 
 
 
