@@ -16,12 +16,6 @@
 <div style="display: inline_block">
     <h3 align="left"> Das linguagens e ferramentas que tenho um prévio conhecimento:</h3>
    <br>
-   
-  <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  <img align="center" alt="Ka-Illustrator" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-  <img align="center" alt="Ka-Xd" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
-  <img align="center" alt="Ka-PS" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-  <img align="center" alt="Ka-Canva" height="40" width="40"src="https://img.icons8.com/doodle/48/000000/canva.png"/>
   <img align="center" alt="Ka-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   <img align="center" alt="Ka-HTML" height="40" width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-html-file-file-type-justicon-lineal-color-justicon.png"/>
   <img align="center" alt="Ka-CSS" height="40" width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"/>
