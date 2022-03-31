@@ -8,8 +8,6 @@
 
 ##### :house_with_garden: Barueri/SP.
 
-##### :outbox_tray: Metas de 2022 :Arrumar um emprego.
-
 
 <div style="display: inline_block">
     <h3 align="left"> Das linguagens e ferramentas que tenho um prévio conhecimento:</h3>
